@@ -1,0 +1,11 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    width: 100%;
+    padding: 10px;
+    font-family: system-ui;
+    text-align: center;
+    font-size:30px;
+}
