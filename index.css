@@ -1,5 +1,5 @@
 :root {
-    color-scheme: light dark;
+    color-scheme: light dark;   
 }
 
 body {
@@ -8,4 +8,10 @@ body {
     font-family: system-ui;
     text-align: center;
     font-size:30px;
+}
+
+.mac {
+    strong {
+        font-size:500px;
+    }
 }
